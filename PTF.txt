@@ -1,0 +1,69 @@
+  General Section
+  Line in General Section
+
+  Branch Input
+  Branch line
+  
+  Branch Output
+  Branch line
+  
+  Fields Input
+  StringFiled1        String        Free Format
+  StringField2        String        X          
+  StringField3        String                   
+  IntegerField1       Integer       N1         
+  IntegerField2       Integer                
+  DateFiled1          Date/Time     yyyy-mm-dd 
+  DataFiled2          Date/Time     yyyy-mm-dd 
+  
+  Fields Output
+  StringFiled1        String        Free Format
+  StringField2        String        X          
+  StringField3        String                   
+  IntegerField1       Integer       N1         
+  IntegerField2       Integer       N2         
+  DateFiled1          Date/Time     ERROR            
+  DataFiled2          Date/Time     yyyy-mm-dd 
+  
+  Code Section
+  ---------------
+
+  Pre-Session
+  integer intName, intOtherName;
+  real relName, relOtherName;
+  string[2020] strName, strOtherName;
+  Post-Session
+
+  << put declaration >>
+  INVOIC
+  On End
+
+
+  DTM.2390
+  if #1154 = "BH" then
+
+  if #1154 = "PB" then
+
+  if #1154 = "GP" then
+
+  if conditon = something then
+  	begin IF BEGIN
+     code of 	something ifthen;
+  END end If(
+  end if END If(
+  while(somethig
+  dosdflas "IF" dsldsjfksf;
+  IFTHANBEGIN) ;
+  BEGIN
+  dsodfs "IF" da;sldkfja "BEGIN" dkslafjd;
+  dklfa;sdkfj IF dlasdjfkl BEGIN dlafjsdkl;
+
+  somecode;
+  end end;
+  if condition then;
+  new line of code;
+  
+  
+
+  Code Lists
+  Some Code Lists` 
